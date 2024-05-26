@@ -1,0 +1,41 @@
+{
+    "steps": [
+    {
+    "description": "Apprendre les concepts de base",
+    "details": [
+    "Démarrer avec la compréhension des principes de base du langage",
+    "Étudier la syntaxe, les types de données et les structures de contrôle"
+    ]
+    },
+    {
+    "description": "Étudier les exemples",
+    "details": [
+    "Examiner des exemples existants",
+    "Comprendre les fonctionnalités et la syntaxe de Grog"
+    ]
+    },
+    {
+    "description": "Pratiquer la programmation",
+    "details": [
+    "Mettre en pratique les connaissances acquises",
+    "Écrire du code Grog pour résoudre des problèmes ou réaliser des tâches spécifiques"
+    ]
+    },
+    {
+    "description": "Maîtriser les fonctionnalités avancées",
+    "details": [
+    "Explorer les fonctionnalités avancées de Grog",
+    "Étudier les fonctions, les classes et les modules",
+    "Créer des programmes plus complexes"
+    ]
+    },
+    {
+    "description": "Partager et recevoir des commentaires",
+    "details": [
+    "Partager votre code avec la communauté Grog",
+    "Demander des commentaires et des conseils pour améliorer vos compétences et votre code"
+    ]
+    }
+    ]
+}
+    
